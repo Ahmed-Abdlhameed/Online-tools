@@ -37,3 +37,17 @@
 - [Animista](https://animista.net/): for creating custom animations for your element.
 - [Colorspace](https://mycolor.space/): for generating colors around the desired color.
 - [Huemint](https://huemint.com/): for creating custom colors for your website or brand.
+
+<hr>
+
+### For Javascript:
+- **For APIs:**
+  - [Fakestoreapi](https://fakestoreapi.com/): For an e-commerce fake API.
+  - [Jsonplaceholder](https://jsonplaceholder.typicode.com/): For a social media fake API.
+  - [Dummyjson](https://dummyjson.com/): For a wide range of APIs.
+  - [Reqres](https://reqres.in/): For different user authorization situations API.
+  - [Jsoneditoronline](https://jsoneditoronline.org/): For providing help at maintaining JSON files.
+
+- [GSAP](https://gsap.com/): For a Javascript animations library.
+- [Sweetalert2](https://sweetalert2.github.io/): For an alternative of the native JS window.alert.
+
