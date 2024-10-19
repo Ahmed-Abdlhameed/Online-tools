@@ -1,4 +1,4 @@
-## Some helpful websites for developments:
+## Some helpful websites for development:
 ### For design:
 - **For free high quality images:**
   - [500px](https://500px.com/)
@@ -22,15 +22,15 @@
     - [Uiverse](https://uiverse.io/)
     - [V0dev](https://v0.dev/)
 
-  - **For logos:**
-    - [Logopond](https://logopond.com/): for a creative logo images.
-    - [Logo](https://logo.com/): for creating a custom logo for your website or brand.
-
   - **For buttons**:
     - [Buttonsgenerator](https://markodenic.com/tools/buttons-generator/): for cool ready buttons.
     - [Neumorphism](https://neumorphism.io/): for a fancy faded in buttons.
     - [Buttonscool](https://www.buttons.cool/): for many cool designed buttons.
     - [Fancyborderradius]( https://9elements.github.io/fancy-border-radius/): for a fancy border for a button.
+
+  - **For logos:**
+    - [Logopond](https://logopond.com/): for a creative logo images.
+    - [Logo](https://logo.com/): for creating a custom logo for your website or brand.
   
 - [Brandcolors](https://brandcolors.net/): for all colors of any brand.
 - [ClippyCSS](https://bennettfeely.com/clippy/): for creating different shapes with CSS.
