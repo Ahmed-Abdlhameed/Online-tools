@@ -51,3 +51,13 @@
 - [GSAP](https://gsap.com/): For a Javascript animations library.
 - [Sweetalert2](https://sweetalert2.github.io/): For an alternative of the native JS window.alert.
 
+<hr>
+
+### For others:
+- **For free website hosting**
+  - [Render](https://render.com/)
+  - [Netlify](https://www.netlify.com/)
+
+- [10015](https://10015.io/): for many front-end tools.
+- [Pagespeed](https://pagespeed.web.dev/): for knowing what slows down the website like (Google lighthouse).
+
