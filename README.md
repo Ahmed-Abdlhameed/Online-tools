@@ -5,10 +5,12 @@
   - [Pixels](https://www.pexels.com/)
   - [Pixabay](https://pixabay.com/)
   - [Freepik](https://www.freepik.com/)
+
 - For different types of icons:
   - [Fontawesome](https://fontawesome.com/): for text icons.
   - [Lordicon](https://lordicon.com/): for animated icons.
   - [Flaticon](https://www.flaticon.com/): for animated & static icons, stickers or gifs.
+
 - [SVGRepo](https://www.svgrepo.com/): for SVG images.
 - [Brandcolors](https://brandcolors.net/): for all colors of any brand.
 - [ClippyCSS](https://bennettfeely.com/clippy/): for creating different shapes with CSS.
