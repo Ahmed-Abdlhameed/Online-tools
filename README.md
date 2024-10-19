@@ -20,7 +20,7 @@
   - **For all parts:**
     - [Codepen](https://codepen.io/)
     - [Uiverse](https://uiverse.io/)
-    - [V0dev](https://v0.dev/): for ready website parts like (forms, widgets and more).
+    - [V0dev](https://v0.dev/)
 
   - **For logos:**
     - [Logopond](https://logopond.com/): for a creative logo images.
@@ -31,7 +31,7 @@
     - [Neumorphism](https://neumorphism.io/): for a fancy faded in buttons.
     - [Buttonscool](https://www.buttons.cool/): for many cool designed buttons.
     - [Fancyborderradius]( https://9elements.github.io/fancy-border-radius/): for a fancy border for a button.
-
+  
 - [Brandcolors](https://brandcolors.net/): for all colors of any brand.
 - [ClippyCSS](https://bennettfeely.com/clippy/): for creating different shapes with CSS.
 - [Animista](https://animista.net/): for creating custom animations for your element.
