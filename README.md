@@ -17,7 +17,7 @@
   - [Getwaves](https://getwaves.io/): for creating SVG waves in your website.
  
 - **For ready elements, different website parts, insights and ideas:**
-  **For all**
+  - **For all:**
     - [Codepen](https://codepen.io/)
     - [Uiverse](https://uiverse.io/)
   - **For buttons**:
