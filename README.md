@@ -54,7 +54,7 @@
 <hr>
 
 ### For others:
-- **For free website hosting**
+- **For free website hosting:**
   - [Render](https://render.com/)
   - [Netlify](https://www.netlify.com/)
 
