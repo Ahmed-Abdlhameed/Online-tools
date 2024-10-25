@@ -5,6 +5,7 @@
   - [Pixels](https://www.pexels.com/)
   - [Pixabay](https://pixabay.com/)
   - [Freepik](https://www.freepik.com/)
+  - [Gallerypng](https://gallerypng.com/): PNG images without background.
 
 - **For different types of icons:**
   - [Fontawesome](https://fontawesome.com/): for text icons.
