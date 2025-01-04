@@ -1,5 +1,8 @@
 ## Some helpful websites for development:
 ### For design:
+- **For placeholders:**
+  - [Placehold](https://placehold.co/): Blank placeholder images.
+  - [Pravatar]((https://www.pravatar.cc/)): People placeholder images..
 - **For free high quality images:**
   - [500px](https://500px.com/)
   - [Pixels](https://www.pexels.com/)
