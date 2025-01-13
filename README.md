@@ -46,9 +46,10 @@
 
 ### For Javascript:
 - **For APIs:**
+  - [OMDB](http://www.omdbapi.com/): For movies & series API.
+  - [Dummyjson](https://dummyjson.com/): For a wide range of APIs.
   - [Fakestoreapi](https://fakestoreapi.com/): For an e-commerce fake API.
   - [Jsonplaceholder](https://jsonplaceholder.typicode.com/): For a social media fake API.
-  - [Dummyjson](https://dummyjson.com/): For a wide range of APIs.
   - [Reqres](https://reqres.in/): For different user authorization situations API.
   - [Jsoneditoronline](https://jsoneditoronline.org/): For providing help at maintaining JSON files.
 
