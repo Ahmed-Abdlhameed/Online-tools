@@ -45,7 +45,12 @@
 <hr>
 
 ### For Javascript:
+- **For Problem Solving**
+  - [LeetCode](https://leetcode.com/)
+  - [HackerRank](https://www.hackerrank.com/)
+
 - **For APIs:**
+  - [Postman](https://web.postman.co/): For managing APIs.
   - [Frankfurter](https://frankfurter.dev/): For currency API.
   - [OMDB](http://www.omdbapi.com/): For movies & series API.
   - [Open-meteo](https://open-meteo.com/): For a weather API.
